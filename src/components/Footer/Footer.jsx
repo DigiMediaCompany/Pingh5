@@ -18,9 +18,6 @@ const Footer = () => {
               industry news. Our mission is to provide you with insightful analysis and valuable 
               insights, enriching your digital journey.
             </p>
-            <p className="text-gray-500 text-xs">
-              © 2025 pingh.com - All Rights Reserved
-            </p>
           </div>
           {/* Blog */}
           <div>
@@ -33,8 +30,6 @@ const Footer = () => {
               <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Latest Updates</a></li>
             </ul>
           </div>
-
-
 
           {/* Categories */}
           <div>
