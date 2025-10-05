@@ -5,7 +5,7 @@ const Disclaimer = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-amber-50 to-orange-100 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
-        {/* Back Button */}
+        {/* Quay */}
         <div className="mb-8">
           <Link to="/" className="inline-flex items-center text-amber-600 hover:text-amber-800 transition-colors">
             <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -118,16 +118,7 @@ const Disclaimer = () => {
               of the modified disclaimer.
             </p>
 
-            <div className="bg-red-50 border border-red-200 p-6 rounded-lg mt-8">
-              <h4 className="text-lg font-semibold text-red-800 mb-3">
-                ⚠️ Important Reminder
-              </h4>
-              <p className="text-red-700">
-                By using Pingh Gaming Platform, you acknowledge that you have read, 
-                understood, and agree to be bound by this disclaimer. If you do not 
-                agree with any part of this disclaimer, please discontinue use of our services.
-              </p>
-            </div>
+           
           </div>
         </div>
       </div>
