@@ -76,17 +76,6 @@ const AboutUs = () => {
               years of gaming expertise with cutting-edge technology to deliver a platform that 
               truly serves the gaming community.
             </p>
-
-            <div className="bg-blue-50 p-6 rounded-lg mt-8">
-              <h4 className="text-lg font-semibold text-blue-800 mb-3">
-                Join Our Community
-              </h4>
-              <p className="text-blue-700">
-                Whether you're a casual gamer or a hardcore enthusiast, Pingh welcomes you to 
-                join our growing community. Discover new games, share your experiences, and 
-                connect with fellow gamers from around the world.
-              </p>
-            </div>
           </div>
         </div>
       </div>

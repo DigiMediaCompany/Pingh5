@@ -138,44 +138,6 @@ const PrivacyPolicy = () => {
               </div>
             </section>
 
-            <section className="mb-8">
-              <h3 className="text-2xl font-semibold text-gray-800 mb-4">
-                5. YOUR RIGHTS
-              </h3>
-              <p className="text-gray-600 leading-relaxed mb-4">
-                You have the following rights over the way we process personal data relating to you:
-              </p>
-              <ul className="list-disc pl-6 text-gray-600 space-y-2">
-                <li>Ask for a copy of data we are processing about you and have inaccuracies corrected</li>
-                <li>Object to us processing data about you</li>
-                <li>Obtain a machine readable copy of your personal data</li>
-                <li>Make a complaint to a Supervisory Authority</li>
-              </ul>
-            </section>
-
-            <section className="mb-8">
-              <h3 className="text-2xl font-semibold text-gray-800 mb-4">
-                6. SECURITY
-              </h3>
-              <p className="text-gray-600 leading-relaxed">
-                We will take all reasonable technical and organisational precautions to prevent the loss misuse or 
-                alteration of your personal information. Our databases are password protected and limited to essential 
-                employees only.
-              </p>
-            </section>
-
-            <section className="bg-green-50 p-6 rounded-lg">
-              <h3 className="text-2xl font-semibold text-gray-800 mb-4">
-                CONTACT INFORMATION
-              </h3>
-              <p className="text-gray-600 leading-relaxed">
-                All questions, comments or enquiries should be directed to CEO at 
-                <a href="mailto:ceo@bravebitsglobal.com" className="text-green-600 hover:text-green-800 font-medium ml-1">
-                  ceo@bravebitsglobal.com
-                </a>. We will endeavour to respond to any query or questions within three business days.
-              </p>
-            </section>
-
             <h2 className="text-2xl font-semibold text-gray-800 mb-6 mt-10">
               How We Use Your Information
             </h2>
@@ -217,27 +179,9 @@ const PrivacyPolicy = () => {
               no method of transmission over the internet is 100% secure.
             </p>
 
-            <h2 className="text-2xl font-semibold text-gray-800 mb-6 mt-10">
-              Your Rights
-            </h2>
-            <p className="text-gray-600 mb-6 leading-relaxed">
-              You have the right to access, update, or delete your personal information. 
-              You may also opt-out of certain communications from us. To exercise these rights, 
-              please contact us using the information provided below.
-            </p>
+            
 
-            <div className="bg-green-50 p-6 rounded-lg mt-8">
-              <h4 className="text-lg font-semibold text-green-800 mb-3">
-                Contact Us
-              </h4>
-              <p className="text-green-700 mb-2">
-                If you have any questions about this Privacy Policy, please contact us at:
-              </p>
-              <p className="text-green-700">
-                <strong>Email:</strong> privacy@pingh.com<br/>
-                <strong>Address:</strong> 140 Le Trong Tan, Tan Phu, HCM
-              </p>
-            </div>
+           
           </div>
         </div>
       </div>

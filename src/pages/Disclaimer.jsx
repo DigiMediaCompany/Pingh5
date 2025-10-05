@@ -21,9 +21,6 @@ const Disclaimer = () => {
             Disclaimer
           </h1>
           <div className="w-24 h-1 bg-amber-600 mx-auto rounded-full"></div>
-          <p className="text-gray-600 mt-4">
-            Please read this disclaimer carefully before using our services
-          </p>
         </div>
 
         {/* Content */}
@@ -59,16 +56,6 @@ const Disclaimer = () => {
               third-party sites. Access to such sites is at your own risk.
             </p>
 
-            <h2 className="text-2xl font-semibold text-gray-800 mb-6 mt-10">
-              Limitation of Liability
-            </h2>
-            
-            <div className="bg-amber-50 p-6 rounded-lg mb-6">
-              <p className="text-amber-800 font-medium">
-                <strong>Important Notice:</strong> Pingh will not be liable for any damages 
-                arising from the use of this platform or reliance on the information provided.
-              </p>
-            </div>
 
             <ul className="text-gray-600 mb-6 space-y-3">
               <li className="flex items-start">
