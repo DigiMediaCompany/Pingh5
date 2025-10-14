@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+jupyter
+notebook
+ipykernel
+selenium
+tqdm
+python-box
+selenium 
+webdriver-manager
