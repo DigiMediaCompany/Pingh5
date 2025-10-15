@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+jupyter
+notebook
+ipykernel
+selenium
+selenium 
+webdriver-manager
